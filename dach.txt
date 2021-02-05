@@ -1,3 +1,7 @@
+# Amazon
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+
 # Google
 0.0.0.0 doubleclick.net
 0.0.0.0 googletagmanager.com
@@ -27,4 +31,8 @@
 0.0.0.0 tinypass.com
 
 # 20min
-0.0.0.0 https://cdn.unitycms.io
+0.0.0.0 cdn.unitycms.io
+
+# Ookla Speedtest
+0.0.0.0 speedtest.net/javascript/adsjs.js
+0.0.0.0 c.evidon.com
