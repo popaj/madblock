@@ -1,0 +1,30 @@
+# Google
+0.0.0.0 doubleclick.net
+0.0.0.0 googletagmanager.com
+
+# Facebook
+0.0.0.0 fbsbx.com
+
+# Twitter
+
+# Heise
+0.0.0.0 dymatrix.cloud
+0.0.0.0 kameleoon.com
+0.0.0.0 cleverpush.com
+
+# NZZ
+0.0.0.0 track.nzz.ch
+0.0.0.0 adnxs.com
+0.0.0.0 adtech.de
+0.0.0.0 chartbeat.com
+
+# Blick
+0.0.0.0 admeira.ch
+0.0.0.0 npttech.com
+0.0.0.0 dreamlab.pl
+0.0.0.0 summerhamster.com
+0.0.0.0 onet.pl
+0.0.0.0 tinypass.com
+
+# 20min
+0.0.0.0 https://cdn.unitycms.io
