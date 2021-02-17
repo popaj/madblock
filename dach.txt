@@ -16,6 +16,9 @@
 0.0.0.0 kameleoon.com
 0.0.0.0 cleverpush.com
 
+# Golem
+0.0.0.0 servedbyadbutler.com
+
 # NZZ
 0.0.0.0 track.nzz.ch
 0.0.0.0 adnxs.com
